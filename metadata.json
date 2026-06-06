@@ -1,0 +1,6 @@
+{
+  "name": "Google Calendar & Photos",
+  "description": "An elegant dark theme workspace dashboard displaying Google Calendar events side-by-side with synced memories from Google Photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
